@@ -31,3 +31,4 @@ fastapi
 uvicorn
 langserve
 gradio
+ddgs
